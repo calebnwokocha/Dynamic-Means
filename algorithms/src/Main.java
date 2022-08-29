@@ -13,7 +13,7 @@ public class Main {
         ArrayList<Double> data1 = new ArrayList<>();
         data1.add(generateDatum(0));
         BruteForceMean bruteForceMean = new BruteForceMean();
-        System.out.println("BRUTE-FORCE MEAN:");
+        System.out.println("BRUTE-FORCE MEANS:");
         for (int time = 1; time <= 4; time++) {
             double datum = generateDatum(time);
             data1.add(datum);
@@ -28,7 +28,7 @@ public class Main {
         ArrayList<Double> data2 = new ArrayList<>();
         data2.add(generateDatum(0));
         DynamicMean dynamicMean = new DynamicMean(generateDatum(0));
-        System.out.println("\nDYNAMIC MEAN:");
+        System.out.println("\nDYNAMIC MEANS:");
         for (int time = 1; time <= 4; time++) {
             double datum = generateDatum(time);
             data2.add(datum);
