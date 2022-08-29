@@ -4,6 +4,8 @@
  * DEPARTMENT: COMPUTER SCIENCE
  */
 
+import java.util.ArrayList;
+
 public class BruteForceMean {
     public BruteForceMean() {}
 
