@@ -1,7 +1,7 @@
 
 Code implementation of the paper: Dynamic programming: Arithmetic, Geometric, Harmonic, and Power Means.
 
-Paper links:
+Paper weblinks:
 
 https://www.researchgate.net/publication/363488132_Dynamic_Programming_Arithmetic_Geometric_Harmonic_and_Power_Means
 
